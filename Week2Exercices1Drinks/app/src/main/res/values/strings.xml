@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Week2Exercices1Drinks</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="species">Species</string>
+    <string name="alcohol_or_non_alcohol">alcohol or non alcohol</string>
+    <string name="mojo">Mojo</string>
+    <string name="alcoholic">alcoholic</string>
+    <string name="mojo_url">https://media-cdn.tripadvisor.com/media/photo-s/07/a7/74/d0/apoala-mexican-cuisine.jpg</string>
+    <string name="mojo_wikipedia_url">https://en.wikipedia.org/wiki/Mojito</string>
+    <string name="manhattan">Manhattan</string>
+    <string name="manhatten_url">https://ik.imagekit.io/jamieoliver/recipe-database/xtra_med/EYTocw3OKcuBJv9xJTfp0h.jpg?tr=w-330,</string>
+    <string name="manhatten_wikipedia_url">https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%85%D1%8D%D1%82%D1%82%D0%B5%D0%BD_(%D0%BA%D0%BE%D0%BA%D1%82%D0%B5%D0%B9%D0%BB%D1%8C)</string>
+    <string name="orange_juice">Orange juice</string>
+    <string name="fresh">Fresh</string>
+    <string name="non_alcoholic">non alcoholic</string>
+    <string name="orange_url">http://tuktukdubai.com/wp-content/uploads/2017/10/orange-jiuce.png</string>
+    <string name="orange_wikipedia_url">https://en.wikipedia.org/wiki/Orange_juice</string>
+    <string name="whisky">Whisky</string>
+    <string name="beverage">Beverage</string>
+    <string name="whisky_url">http://www.vueweekly.com/wp-content/uploads/2018/03/Dish-whiskey-Mar8.jpg</string>
+    <string name="whisky_wikipedia_url">https://en.wikipedia.org/wiki/Whisky</string>
+    <string name="rum">Rum</string>
+    <string name="rum_url">https://www.luckydevilrum.com/wp-content/uploads/2017/05/HMDRYandCOKECLRS.jpg</string>
+    <string name="rum_wikipedia_url">https://en.wikipedia.org/wiki/Rum</string>
+    <string name="blue_lagoon">Blue Lagoon</string>
+    <string name="cocktail">Cocktail</string>
+    <string name="blue_lagoon_url">https://media-cdn.tripadvisor.com/media/photo-s/01/a6/08/08/blue-lagoon-cocktail.jpg</string>
+    <string name="blue_lagoon_wikipedia_url">https://en.wikipedia.org/wiki/Blue_Lagoon_(cocktail)</string>
+    <string name="context_image">contextImage</string>
+</resources>
